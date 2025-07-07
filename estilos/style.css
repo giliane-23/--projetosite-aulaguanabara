@@ -11,6 +11,6 @@ main{
     background-color:rgb(250, 195, 205);
     width: 500px;
     margin: auto;
-    box-shadow: 3px 3px 5px rgb(240, 188, 253);
+    box-shadow: 3px 3px 5px black;
     padding: 10px;
 }
